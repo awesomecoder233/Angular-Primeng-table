@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { MyFlightsComponent } from './my-flights/my-flights.component';
+import { MyFlightsComponent } from './component/my-flights.component';
 
 @NgModule({
   declarations: [
